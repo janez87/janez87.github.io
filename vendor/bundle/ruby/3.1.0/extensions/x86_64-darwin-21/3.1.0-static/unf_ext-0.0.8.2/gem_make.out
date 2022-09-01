@@ -1,0 +1,16 @@
+current directory: /Users/andrea/Documents/Develop/janez87.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/Users/andrea/.rubies/ruby-3.1.2/bin/ruby -I /Users/andrea/.rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20220901-31559-jue9y7.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/andrea/Documents/Develop/janez87.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= clean
+
+current directory: /Users/andrea/Documents/Develop/janez87.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\=
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/andrea/Documents/Develop/janez87.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20220901-31559-6gkpo4
