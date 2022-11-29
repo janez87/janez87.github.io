@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Empathful Design at Scale - Home</title>
+<!-- begin _includes/seo.html --><title>Human Factors in Data-Intensive Applications for Health - Home</title>
 <meta name="description" content="Personal Page">
 
 
@@ -20,7 +20,7 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Home">
-<meta property="og:title" content="Empathful Design at Scale">
+<meta property="og:title" content="Human Factors in Data-Intensive Applications for Health">
 <meta property="og:url" content="http://localhost:4000/research/">
 
 
@@ -31,7 +31,7 @@
 
 
   <meta name="twitter:site" content="@janez87">
-  <meta name="twitter:title" content="Empathful Design at Scale">
+  <meta name="twitter:title" content="Human Factors in Data-Intensive Applications for Health">
   <meta name="twitter:description" content="Personal Page">
   <meta name="twitter:url" content="http://localhost:4000/research/">
 
@@ -204,7 +204,7 @@
           
         
           
-            <li><a href="https://github.com/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+            <li><a href="https://github.com/janez87" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
           
         
           
@@ -276,7 +276,7 @@
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Empathful Design at Scale">
+    <meta itemprop="headline" content="Human Factors in Data-Intensive Applications for Health">
     
     
     
@@ -284,7 +284,7 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">Empathful Design at Scale
+          <h1 id="page-title" class="page__title" itemprop="headline">Human Factors in Data-Intensive Applications for Health
 </h1>
           
 
@@ -294,12 +294,34 @@
 
       <section class="page__content" itemprop="text">
         
-        <p class="text-justify">Data-intensive systems applied for the social good may have unforeseen impacts on society. To take social impact into account, we need to develop <strong>human-centered design approaches</strong> that work at a <strong>large scale</strong>, are <strong>data-driven</strong>, and can <strong>fully capture the diverse and complex landscape of people’s needs, interests, and values</strong>.</p>
+        <p class="text-justify">My work focus on the integration of machine and human intelligence to design healthcare data-intensive systems more scalable, efficient, effective, and sustainable. This include the investigation on how to integrate different kinds of data (from social media, sensors, lab studies, clinical trials, interviews, etc..), how to embed technology in a usually human-driven process, and how to provide trustworthy human-machine interactions in data-intensive applications. I combine and integrate different HCI and data management areas including crowdsourcing, gamification, user-generated content analysis on one side, and algorithms for data quality, integration and querying on the other.</p>
 
-<p class="text-justify">My work will focus on the integration of computational methods and human intelligence to understand how to  make design processes of data-intensive systems more scalable, efficient, effective, and sustainable (in terms of impact on society), without ignoring their data-intensive nature and keeping the human in the loop. This includes investigating how to integrate different kinds of data (from social media, sensors, lab studies, clinical trials, interviews, etc..), how to embed computational methods in a usually human-driven process (or vice-versa!), and how to provide trustworthy human-machine interactions.</p>
+<h2 id="human-factors-in-data-collection-and-pre-processing">Human factors in Data Collection and Pre-Processing</h2>
 
-<p class="text-justify">A crucial aspect of my approach is to develop co-design methods and tools to elicit <strong>empathy</strong> among stakeholders to establish trust and form sustainable relationships. This is particularly true in the design of machine-based solutions to societal problems - such as healthcare -  where not only is it paramount to develop effectively and efficiently, but also understand the full extent of such systems in society. To do so, there is a novel <strong>digital-supported methodologies</strong> that aid the elicitation and integration of human needs in human-centered design approaches through the development of <strong>empathetic relations</strong>.</p>
+<p class="text-justify">Data collection is the first and the most crucial step in any data-intensive application. It is the foundation of any data analysis pipeline, both the ones based on machine learning technology and the traditional data querying and integration approaches. Both academia and industry are aware that the quality of the collected data is a crucial factor affecting the outcome of any analysis performed on the data.</p>
 
+<p class="text-justify">In this line I study metrics and algorithms to evaluate the quality of data during the data collection process. These metrics can be either automatically computed at data collection time, generated through manual labeling performed by humans or hybrid.  The assumption here is that humans are knowledgeable about the data because they are either the domain expert, the owner of the collected data, or - in general - able to provide additional insight on the quality of data that complement automatic algorithms.</p>
+
+<h2 id="human-factors-in-data-processing">Human Factors in Data Processing</h2>
+
+<p class="text-justify">The issue of the quality of the data is a crucial problem of any data processing pipeline, from the traditional query-based ones to the ones employing machine-learning algorithms. However, in absence of a ground truth or domain knowledge, it may be impossible to know how to correctly fix inconsistencies in the data.</p>
+
+<p>In this line I’m interested into:</p>
+<ul class="text-justify">
+  <li>the development of a human-in-the-loop algorithm to repair inconsistencies in the data and enrich the information already present - both by engaging and directing the users and exploiting user-generated content present on other sources (e.g., Web and Social Media).</li>
+  <li> the development of hybrid data querying methodologies to allow the users to decide on different query plans according to different cost models that integrate the cost of the query with the information on the quality of the data.</li>
+</ul>
+
+<h2 id="human-factors-in-data-analysis">Human Factors in Data Analysis</h2>
+
+<p class="text-justify">Data analysis tools are often built around maximizing their performances and the number of functionalities often developed with in mind end-users having data analytics and programming skills. However, domain experts often lack programming skills or are not proficient with query languages and data analysis API. So it may be difficult for them to translate their information needs into a format understood by existing data analysis tools.</p>
+
+<p class="text-justify">Here I’interested in investigating how to allow users to be at the center of the data analysis process by developing better algorithms, methods, and tools to allow the user to manipulate the data.</p>
+
+<ul class="text-justify">
+  <li>We develop frameworks to allow the users - e.g, domain experts - to develop their own query language or data analysis API to analyze their own data. Domain experts are often not proficient or familiar with query/programming languages or data analysis ecosystems (such as Spark, etc..). By directly involving the end-user in the definition of the languages 1) we can make sure that the query and analysis language we create satisfy the requirements of the domain experts and 2) they have the opportunity to familiarize with the tools very early in their development stage.</li>
+  <li>We develop innovative user modeling techniques to understand additional aspects of the user asking the query and novel ways to allow the user to interact (e.g., explore) with the data. Here we will explore novel interaction paradigms based on adaptive and interactive data visualization and conversational agents.</li>
+</ul>
 
         
       </section>
