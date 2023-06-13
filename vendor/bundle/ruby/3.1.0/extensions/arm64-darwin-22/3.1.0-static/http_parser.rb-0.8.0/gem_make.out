@@ -1,0 +1,20 @@
+current directory: /Users/andreamauri/Documents/Develop/janez87.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/andreamauri/.rubies/ruby-3.1.3/bin/ruby -I /Users/andreamauri/.rubies/ruby-3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/andreamauri/Documents/Develop/janez87.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230613-79860-bzwoez sitelibdir\=./.gem.20230613-79860-bzwoez clean
+
+current directory: /Users/andreamauri/Documents/Develop/janez87.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230613-79860-bzwoez sitelibdir\=./.gem.20230613-79860-bzwoez
+compiling ruby_http_parser.c
+ruby_http_parser.c:365:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+    if (nparsed < len)
+        ~~~~~~~ ^ ~~~
+1 warning generated.
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/andreamauri/Documents/Develop/janez87.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230613-79860-bzwoez sitelibdir\=./.gem.20230613-79860-bzwoez install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20230613-79860-bzwoez
