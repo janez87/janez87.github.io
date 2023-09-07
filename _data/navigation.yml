@@ -1,6 +1,8 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "Thesis offers"
+    url: /thesis/
   - title: "Publications"
     url: /publications/
   - title: "Events"
