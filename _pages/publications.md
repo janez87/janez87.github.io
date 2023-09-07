@@ -4,10 +4,18 @@
     classes: wide
 ---
 
-For the full list please visit my Google Scholar page [here](https://scholar.google.com/citations?hl=it&user=pmziRtMAAAAJ&view_op=list_work)
+For the full list please visit my Google Scholar page [here](https://scholar.google.com/citations?hl=it&user=pmziRtMAAAAJ&view_op=list_work) (I tend to forget to update the list..)
 
-## Recent Publications
+## Recent (or main) Publications
 
+Sonja Rattay, Robert Collins, Aditi Surana, Youngsil Lee, Yuxi Liu, Andrea Mauri, Lachlan D Urquhart, John Vines, Cara Wilson, Larissa Pschetz, Marco C Rozendaal, Irina Shklovski **Sensing Care Through Design: A Speculative Role-play Approach to" Living with" Sensor-supported Care Networks** Proceedings of the 2023 ACM Designing Interactive Systems Conference [pdf](https://dl.acm.org/doi/abs/10.1145/3563657.3596066)
+{: .notice} 
+
+Ioannis Petros Samiotis, Andrea Mauri, Chirstoph Lofi, Alessandro Bozzon **On the Popularity of Classical Music Composers on Community-Driven Platforms** International Conference on Web Engineering [pdf](https://link.springer.com/chapter/10.1007/978-3-031-34444-2_24)
+{: .notice}
+
+Himanshu Verma Luce Drouet , Wo Meijer , Aisling Ann O'Kane , Aneesha Singh , Thiemo Wambsganss , Andrea Mauri **The EmpathiCH Workshop: Unraveling Empathy-Centric Design**  CHI EA '23: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems [pdf](https://dl.acm.org/doi/abs/10.1145/3544549.3573796)
+{: .notice}
 
 Andrea Mauri, Andrea Tocchetti, Lorenzo Corti, Yen-Chia Hsu, Himanshu Verma, Marco Brambilla.  **COCTEAU: an Empathy-Based Tool for Decision-Making** TheWebConf'22 - Demo/Poster [pdf](https://www2022.thewebconf.org/PaperFiles/47.pdf)
 {: .notice} 
