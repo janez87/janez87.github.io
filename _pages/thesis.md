@@ -2,14 +2,12 @@
     permalink: /thesis/
     title: "Thesis and Internship Offers"
     classes: wide
-    author_profile: false
-    page_css:
-     - /assets/css/no_nav.css 
+    author_profile: true
 ---
 
-On this page you will find the list of thsis and internship (M2) offered by the BD theam of [LIRIS Research Lab](https://liris.cnrs.fr/).
+On this page you will find the list of thesis and internship (Master 2 in France) that I currently offer. Usually, an internship lasts 6 months and it is paid.
 
-If you are interested, drop an  email at the contacts present in the offer.
+If you are interested - or if you are interested to work on related topics - please reach out :).
 
 **Human-guided Labeling for High-Quality Data Collection** with Andrea Mauri and Angela Bonifati [pdf](https://drive.google.com/file/d/1d8yX9oWADB0s1D7d3KOvJCW1xp4PH44T/view?usp=sharing)
 {: .notice} 
