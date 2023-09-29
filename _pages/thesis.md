@@ -14,3 +14,5 @@ If you are interested - or if you are interested to work on related topics - ple
 
 **Brain Local-Fields Potential Time Series Clustering and Sub Sequence Matching for Behavior Characterization** with Andrea Mauri and Angela Bonifati [pdf](https://drive.google.com/file/d/1ozu9fufLGIXA_VD8e3omplL3wVcZ7GNa/view?usp=sharing)
 {: .notice} 
+
+**Generative AI for Graph Data Repair** with Andrea Mauri and Angela Bonifati [pdf](https://drive.google.com/file/d/1YEhRY8AYFjRRyhqS9NbczZlo4DaHuT2b/view?usp=sharing)
