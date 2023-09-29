@@ -16,3 +16,4 @@ If you are interested - or if you are interested to work on related topics - ple
 {: .notice} 
 
 **Generative AI for Graph Data Repair** with Andrea Mauri and Angela Bonifati [pdf](https://drive.google.com/file/d/1YEhRY8AYFjRRyhqS9NbczZlo4DaHuT2b/view?usp=sharing)
+{: .notice} 
