@@ -4,7 +4,7 @@
     classes: wide
 ---
 
-## Two years PostDoc in the project EASIER-COHORT: ExtrAction of Symptoms from electronIc hEalth Records to create automatic COHORTs
+## Two years (1 + 1) PostDoc in the project EASIER-COHORT: ExtrAction of Symptoms from electronIc hEalth Records to create automatic COHORTs
 
 Location: Lyon, France
 
