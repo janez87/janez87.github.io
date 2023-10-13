@@ -14,6 +14,5 @@ I obtained my PhD at [Politecnico di Milano](https://www.polimi.it/) with the th
 My [research](/research/) lies at the intersection of Human-Computer Interaction and Data Management. I'm interested in investigating how to integrate **human perspective** and **computational methods** in the design, development and deployment of **data-intensive** applications -- with a special focus on the health domain -- with the goal of making them efficient, effective, and aware of people characteristcs, needs, and values.
 {: .text-justify}
 
-## News
 
-We are hiring a 1 year PostDoc to work on NLP for medical data. Click [here](/postdoc/) to know more!
+
