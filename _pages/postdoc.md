@@ -1,10 +1,8 @@
 ---
     permalink: /postdoc/
-    title: " "
+    title: "PostDoc in Human Factor in Data-Intensive Applications for Health"
     classes: wide
 ---
-
-## One year PostDoc in Human Factor in Data-Intensive Applications for Health
 
 Location: Lyon, France
 
