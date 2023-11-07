@@ -1,9 +1,11 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Thesis offers"
-    url: /thesis/
   - title: "Publications"
     url: /publications/
   - title: "Events"
     url: /events/
+  - title: "Thesis offers"
+    url: /thesis/
+  - title: "Work with us"
+    url: /postdoc/

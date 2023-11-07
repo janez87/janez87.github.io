@@ -16,6 +16,6 @@ My [research](/research/) lies at the intersection of Human-Computer Interaction
 
 ### News
 
-- We are hiring a postdoc for one year at the intersection of HCI and Data Managemet. Click [here](/postdoc/) to know more!
+- We are hiring two postdoc positions. Click [here](/postdoc/) to know more!
 
 
