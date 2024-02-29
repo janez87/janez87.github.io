@@ -8,6 +8,9 @@ For the full list please visit my Google Scholar page [here](https://scholar.goo
 
 ## Recent (or main) Publications
 
+Paul Juillard, Angela Bonifati, and Andrea Mauri. **Interactive Graph Repairs for Neighborhood Constraints.** International Conference on Extending Database Technology. Vol. 27. 2024.[pdf](https://openproceedings.org/2024/conf/edbt/paper-52.pdf)
+{: .notice} 
+
 Sonja Rattay, Robert Collins, Aditi Surana, Youngsil Lee, Yuxi Liu, Andrea Mauri, Lachlan D Urquhart, John Vines, Cara Wilson, Larissa Pschetz, Marco C Rozendaal, Irina Shklovski **Sensing Care Through Design: A Speculative Role-play Approach to" Living with" Sensor-supported Care Networks** Proceedings of the 2023 ACM Designing Interactive Systems Conference [pdf](https://dl.acm.org/doi/abs/10.1145/3563657.3596066)
 {: .notice} 
 

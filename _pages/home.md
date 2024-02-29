@@ -15,7 +15,3 @@ My [research](/research/) lies at the intersection of Human-Computer Interaction
 {: .text-justify}
 
 ### News
-
-- We are hiring a postdoc position. Click [here](/postdoc/) to know more!
-
-
