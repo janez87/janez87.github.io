@@ -30,20 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/events/";
           },
-        },{id: "nav-open-positions",
-          title: "open positions",
-          description: "Master thesis, internships, and PhD opportunities in HCI and Data Management.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/positions/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Download a PDF version above, or view the online version below.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
