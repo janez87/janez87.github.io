@@ -26,7 +26,3 @@ Human-in-the-loop methods have been applied across several domains:
 - **Energy consumption** — user-generated content analysis for smart city energy behavior {% cite mauri2018social %} {% cite de2019automatic %}
 - **Social research** — complementing studies on vulnerable youth with social media data {% cite mauri2021complementing %}
 - **Privacy** — human-in-the-loop approaches to image privacy preservation {% cite mauri2021towards %}
-
-### RDF Stream Processing
-
-During my postdoc at Politecnico di Milano and EPFL, I contributed to **TripleWave** {% cite mauri2016triplewave %} and **RSPLab** {% cite tommasini2017rsplab %} — tools for publishing and benchmarking RDF data streams on the Web.

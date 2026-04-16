@@ -20,8 +20,6 @@ Modern data-intensive applications rely on graph databases, yet graphs frequentl
 
 - **Grafixer** {% cite pachera2025grafixer %} — a system enabling user-centric repairs for property graphs, presented as a demo at SIGMOD 2025.
 - **User-Centric Property Graph Repairs** {% cite pachera2025user %} — a full framework for interactive repair of property graphs, published in SIGMOD 2025.
-- **What If: Causal Analysis with Graph Databases** {% cite pachera2025if %} — exploring counterfactual reasoning over graph data, published in VLDB 2025.
 - **Interactive Graph Repairs for Neighborhood Constraints** {% cite juillard2024interactive %} — introducing neighborhood-based constraint repair at EDBT 2024.
 - **Graph Consistency Rule Mining with LLMs** {% cite le2025graph %} — using LLMs to assist in mining graph constraints, at EDBT 2025.
 
-This work is carried out in collaboration with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) at the LIRIS Database Group.
