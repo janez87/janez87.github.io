@@ -3,7 +3,7 @@ layout: page
 title: open positions
 permalink: /positions/
 description: Master thesis, internships, and PhD opportunities in HCI and Data Management.
-nav: true
+nav: false
 nav_order: 5
 ---
 
