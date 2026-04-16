@@ -1,9 +1,8 @@
 # Social media links and usernames
-# The socials will be displayed in the order they are defined here.
-# For more information, see: https://github.com/george-gca/jekyll-socials
+# For full list of supported keys, see: https://github.com/george-gca/jekyll-socials
 
-cv_pdf: /assets/pdf/cv.pdf        # path to your CV PDF (add the file to assets/pdf/)
-email: andrea.mauri@univ-lyon1.fr # your institutional email
-github: janez87                    # GitHub username
-scholar_userid: pmziRtMAAAAJ  # Google Scholar profile ID (find it in your Scholar URL)
-twitter: janez87                   # Twitter/X handle
+cv_pdf: /assets/pdf/cv.pdf
+email: andrea.mauri@univ-lyon1.fr
+github_username: janez87
+scholar_userid: pmziRtMAAAAJ
+x_username: janez87
