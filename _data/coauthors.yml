@@ -1,0 +1,42 @@
+# Key collaborators — their names will be linked automatically in publication lists.
+# Add homepage URLs where available.
+
+"bonifati":
+  - firstname: ["Angela"]
+    url: https://perso.liris.cnrs.fr/angela.bonifati/
+
+"bozzon":
+  - firstname: ["Alessandro"]
+    url: https://www.alessandrobozzon.com/
+
+"brambilla":
+  - firstname: ["Marco"]
+    url: https://marco.brambilla.me/
+
+"verma":
+  - firstname: ["Himanshu"]
+    url: https://www.himanshuverma.net/
+
+"hsu":
+  - firstname: ["Yen-Chia"]
+    url: https://yenchiah.me/
+
+"pachera":
+  - firstname: ["Amedeo"]
+    url: ""
+
+"ceri":
+  - firstname: ["Stefano"]
+    url: https://ceri.faculty.polimi.it/
+
+"della valle":
+  - firstname: ["Emanuele"]
+    url: https://emanueledellavalle.org/
+
+"lofi":
+  - firstname: ["Christoph"]
+    url: https://www.wis.ewi.tudelft.nl/lofi
+
+"psyllidis":
+  - firstname: ["Achilleas"]
+    url: https://www.achilleas.com/
