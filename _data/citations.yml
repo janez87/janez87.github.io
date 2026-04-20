@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-04-20'
 papers:
   pmziRtMAAAAJ:-_dYPAW6P2MC:
     citations: 0
@@ -17,6 +17,10 @@ papers:
     citations: 0
     title: Community Management Systems for Social Deliberation and Action
     year: Unknown Year
+  pmziRtMAAAAJ:4MWp96NkSFoC:
+    citations: 0
+    title: (Re-) Thinking Empathy's Materiality in HCI
+    year: '2026'
   pmziRtMAAAAJ:5awf1xo2G04C:
     citations: 12
     title: Automatic Processing of User-Generated Content for the Description of Energy-Consuming Activities at Individual and Group Level
@@ -45,6 +49,10 @@ papers:
     citations: 0
     title: "Web Engineering: 25th International Conference, ICWE 2025, Delft, The Netherlands, June 30\u2013July 3, 2025, Proceedings"
     year: '2025'
+  pmziRtMAAAAJ:BwyfMAYsbu0C:
+    citations: 0
+    title: 'Co-Data: Cultivating Effective Human-LLM Collaboration for Collaborative Data Processing'
+    year: '2026'
   pmziRtMAAAAJ:CHSYGLWDkRkC:
     citations: 0
     title: Augmented Participation to Live Events through Social Network Content Enrichment
@@ -86,7 +94,7 @@ papers:
     title: Iterative Knowledge Extraction from Social Networks
     year: '2018'
   pmziRtMAAAAJ:UHK10RUVsp4C:
-    citations: 93
+    citations: 92
     title: Empowering local communities using artificial intelligence
     year: '2022'
   pmziRtMAAAAJ:URolC5Kub84C:
