@@ -14,8 +14,9 @@ on:
       - "_bibliography/**"
       - "scripts/**"
       - "themes/**"
-      - "!**.md"
+      - "requirements.txt"
       - "**.md"
+      - "**.toml"
   workflow_dispatch:
 
 permissions:
