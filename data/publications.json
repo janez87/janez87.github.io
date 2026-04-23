@@ -1,0 +1,1030 @@
+[
+  {
+    "key": "mauri2026rethinking",
+    "type": "conference",
+    "title": "(Re-) Thinking Empathy's Materiality in HCI",
+    "authors": [
+      "Andrea Mauri",
+      "Sophia Ppali",
+      "Mireia Yurrita",
+      "Alice Vitali",
+      "Alok Debnath",
+      "Lucie Flek",
+      "Andrea Cuadra",
+      "Sven Mayer",
+      "Michal Lahav",
+      "Tiffanie Horne",
+      "Aneesha Singh"
+    ],
+    "year": 2026,
+    "venue": "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA)",
+    "pages": "",
+    "abbr": "CHI EA",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "mauri2026codata",
+    "type": "conference",
+    "title": "Co-Data: Cultivating Effective Human-LLM Collaboration for Collaborative Data Processing",
+    "authors": [
+      "Andrea Mauri",
+      "Amedeo Pachera",
+      "Kashif Imteyaz",
+      "Jie Yang",
+      "Eric Umuhoza",
+      "Angela Bonifati",
+      "Michal Lahav",
+      "Nitesh Goyal"
+    ],
+    "year": 2026,
+    "venue": "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA)",
+    "pages": "",
+    "abbr": "CHI EA",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "pachera2025grafixer",
+    "type": "conference",
+    "title": "Grafixer: Enabling User-Centric Repairs for Property Graphs",
+    "authors": [
+      "Amedeo Pachera",
+      "Angela Bonifati",
+      "Andrea Mauri"
+    ],
+    "year": 2025,
+    "venue": "Companion of the 2025 International Conference on Management of Data (SIGMOD)",
+    "pages": "199--202",
+    "abbr": "SIGMOD",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "le2025graph",
+    "type": "conference",
+    "title": "Graph Consistency Rule Mining with LLMs: an Exploratory Study",
+    "authors": [
+      "Hoa Thi Le",
+      "Angela Bonifati",
+      "Andrea Mauri"
+    ],
+    "year": 2025,
+    "venue": "28th International Conference on Extending Database Technology (EDBT)",
+    "pages": "",
+    "abbr": "EDBT",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "terdalkar2025graph",
+    "type": "workshop",
+    "title": "Graph Repairs with Large Language Models: An Empirical Study",
+    "authors": [
+      "Hrishikesh Terdalkar",
+      "Angela Bonifati",
+      "Andrea Mauri"
+    ],
+    "year": 2025,
+    "venue": "8th Joint Workshop on Graph Data Management Experiences & Systems and Network Data Analytics (GRADES-NDA)",
+    "pages": "",
+    "abbr": "GRADES-NDA",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "pachera2025understanding",
+    "type": "journal",
+    "title": "Understanding Student Errors in Graph Query Formulation",
+    "authors": [
+      "Amedeo Pachera",
+      "Stefania Dumbrava",
+      "Angela Bonifati",
+      "Andrea Mauri"
+    ],
+    "year": 2025,
+    "venue": "ACM Transactions on Computing Education",
+    "pages": "",
+    "abbr": "TOCE",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "pachera2025user",
+    "type": "journal",
+    "title": "User-Centric Property Graph Repairs",
+    "authors": [
+      "Amedeo Pachera",
+      "Angela Bonifati",
+      "Andrea Mauri"
+    ],
+    "year": 2025,
+    "venue": "Proceedings of the ACM on Management of Data (SIGMOD)",
+    "pages": "1--27",
+    "abbr": "SIGMOD",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "verma2025web",
+    "type": "book",
+    "title": "Web Engineering: 25th International Conference, ICWE 2025",
+    "authors": [
+      "Himanshu Verma",
+      "Alessandro Bozzon",
+      "Andrea Mauri",
+      "Jie Yang"
+    ],
+    "year": 2025,
+    "venue": "",
+    "pages": "",
+    "abbr": "ICWE",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "pachera2025if",
+    "type": "journal",
+    "title": "What If: Causal Analysis with Graph Databases",
+    "authors": [
+      "Amedeo Pachera",
+      "Mattia Palmiotto",
+      "Angela Bonifati",
+      "Andrea Mauri"
+    ],
+    "year": 2025,
+    "venue": "Proceedings of the VLDB Endowment",
+    "pages": "4009--4016",
+    "abbr": "VLDB",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "vargas2024decolonizing",
+    "type": "conference",
+    "title": "Decolonizing Federated Learning: Designing Fair and Responsible Resource Allocation",
+    "authors": [
+      "Genoveva Vargas-Solar",
+      "Javier-Alfonso Espinosa-Oviedo",
+      "Nadia Bennani",
+      "Andrea Mauri",
+      "Jose-Luis Zechinelli-Martini",
+      "Barbara Catania",
+      "Claudio A Ardagna",
+      "Nicola Bena"
+    ],
+    "year": 2024,
+    "venue": "ACS/IEEE 21st International Conference on Computer Systems and Applications (AICCSA)",
+    "pages": "",
+    "abbr": "AICCSA",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "alok2024empathich",
+    "type": "conference",
+    "title": "EmpathiCH: Scrutinizing Empathy-Centric Design Beyond the Individual",
+    "authors": [
+      "Alok Debnath",
+      "Allison Lahnala",
+      "Ugur Genc",
+      "Ewan Soubutts",
+      "Michal Lahav",
+      "Tiffanie Horne",
+      "Wo Meijer",
+      "Yun Suen Pai",
+      "Yen-Chia Hsu",
+      "Giulia Barbareschi",
+      "Himanshu Verma",
+      "Andrea Mauri"
+    ],
+    "year": 2024,
+    "venue": "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA)",
+    "pages": "",
+    "abbr": "CHI EA",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "juillard2024interactive",
+    "type": "conference",
+    "title": "Interactive Graph Repairs for Neighborhood Constraints",
+    "authors": [
+      "Paul Juillard",
+      "Angela Bonifati",
+      "Andrea Mauri"
+    ],
+    "year": 2024,
+    "venue": "27th International Conference on Extending Database Technology (EDBT)",
+    "pages": "175--187",
+    "abbr": "EDBT",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "mauri2024policy",
+    "type": "journal",
+    "title": "Policy Sandboxing: Empathy As An Enabler Towards Inclusive Policy-Making",
+    "authors": [
+      "Andrea Mauri",
+      "Yen-Chia Hsu",
+      "Himanshu Verma",
+      "Andrea Tocchetti",
+      "Marco Brambilla",
+      "Alessandro Bozzon"
+    ],
+    "year": 2024,
+    "venue": "Proceedings of the ACM on Human-Computer Interaction (CSCW)",
+    "pages": "369:1--369:32",
+    "abbr": "CSCW",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "pachera2024towards",
+    "type": "workshop",
+    "title": "Towards User-Centric Graph Repairs",
+    "authors": [
+      "Amedeo Pachera",
+      "Angela Bonifati",
+      "Andrea Mauri"
+    ],
+    "year": 2024,
+    "venue": "IEEE 40th International Conference on Data Engineering Workshops (ICDEW)",
+    "pages": "",
+    "abbr": "ICDEW",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "luce2023empathich_proceedings",
+    "type": "other",
+    "title": "EMPATHICH '23: Proceedings of the 2nd Empathy-Centric Design Workshop",
+    "authors": [
+      "Luce Drouet",
+      "Wo Meijer",
+      "Aisling Ann O'Kane",
+      "Aneesha Singh",
+      "Thiemo Wambsganss",
+      "Andrea Mauri",
+      "Himanshu Verma"
+    ],
+    "year": 2023,
+    "venue": "",
+    "pages": "",
+    "abbr": "",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "samiotis2023popularity",
+    "type": "conference",
+    "title": "On the Popularity of Classical Music Composers on Community-Driven Platforms",
+    "authors": [
+      "Ioannis Petros Samiotis",
+      "Andrea Mauri",
+      "Christoph Lofi",
+      "Alessandro Bozzon"
+    ],
+    "year": 2023,
+    "venue": "International Conference on Web Engineering (ICWE)",
+    "pages": "327--335",
+    "abbr": "ICWE",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "rattay2023sensing",
+    "type": "conference",
+    "title": "Sensing Care Through Design: A Speculative Role-play Approach to \"Living with\" Sensor-supported Care Networks",
+    "authors": [
+      "Sonja Rattay",
+      "Robert Collins",
+      "Aditi Surana",
+      "Youngsil Lee",
+      "Yuxi Liu",
+      "Andrea Mauri",
+      "Lachlan D Urquhart",
+      "John Vines",
+      "Cara Wilson",
+      "Larissa Pschetz",
+      "others"
+    ],
+    "year": 2023,
+    "venue": "Proceedings of the ACM Designing Interactive Systems Conference (DIS)",
+    "pages": "1660--1675",
+    "abbr": "DIS",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "luce2023empathich_chi",
+    "type": "workshop",
+    "title": "The EmpathiCH Workshop: Unraveling Empathy-Centric Design",
+    "authors": [
+      "Luce Drouet",
+      "Wo Meijer",
+      "Aisling Ann O'Kane",
+      "Aneesha Singh",
+      "Thiemo Wambsganss",
+      "Andrea Mauri",
+      "Himanshu Verma"
+    ],
+    "year": 2023,
+    "venue": "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA)",
+    "pages": "1--7",
+    "abbr": "CHI EA",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "mauri2022cocteau",
+    "type": "journal",
+    "title": "COCTEAU: an Empathy-Based Tool for Decision-Making",
+    "authors": [
+      "Andrea Mauri",
+      "Andrea Tocchetti",
+      "Lorenzo Corti",
+      "Yen-Chia Hsu",
+      "Himanshu Verma",
+      "Marco Brambilla"
+    ],
+    "year": 2022,
+    "venue": "The Web Conference -- Demo/Poster (arXiv:2204.06289)",
+    "pages": "",
+    "abbr": "TheWebConf",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "mauri2022empathy",
+    "type": "conference",
+    "title": "Empathy-Centric Design At Scale",
+    "authors": [
+      "Andrea Mauri",
+      "Yen-Chia Hsu",
+      "Marco Brambilla",
+      "Aisling Ann O'Kane",
+      "Ting-Hao Kenneth Huang",
+      "Himanshu Verma"
+    ],
+    "year": 2022,
+    "venue": "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA)",
+    "pages": "1--6",
+    "abbr": "CHI EA",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "hsu2022empowering",
+    "type": "journal",
+    "title": "Empowering Local Communities Using Artificial Intelligence",
+    "authors": [
+      "Yen-Chia Hsu",
+      "Himanshu Verma",
+      "Andrea Mauri",
+      "Illah Nourbakhsh",
+      "Alessandro Bozzon",
+      "others"
+    ],
+    "year": 2022,
+    "venue": "Patterns",
+    "pages": "",
+    "abbr": "Patterns",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "nastasi2022energy",
+    "type": "journal",
+    "title": "Energy Consumption in a Smart City",
+    "authors": [
+      "Benedetto Nastasi",
+      "Andrea Mauri",
+      "others"
+    ],
+    "year": 2022,
+    "venue": "Energies",
+    "pages": "",
+    "abbr": "Energies",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "mauri2021complementing",
+    "type": "conference",
+    "title": "Complementing Studies on Vulnerable Youths with Reddit Data",
+    "authors": [
+      "Andrea Mauri",
+      "Achilleas Psyllidis",
+      "Alessandro Bozzon",
+      "Ju-Sung Lee",
+      "Jason Pridmore",
+      "Liesbet van Zoonen",
+      "Sarah Giest"
+    ],
+    "year": 2021,
+    "venue": "14th Biannual Conference of the Italian SIGCHI Chapter (CHItaly)",
+    "pages": "1--8",
+    "abbr": "CHItaly",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "mauri2021towards",
+    "type": "workshop",
+    "title": "Towards a Human in the Loop Approach to Preserve Privacy in Images",
+    "authors": [
+      "Andrea Mauri",
+      "Alessandro Bozzon"
+    ],
+    "year": 2021,
+    "venue": "11th Italian Information Retrieval Workshop (IIR)",
+    "pages": "",
+    "abbr": "IIR",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "samiotis2020microtask",
+    "type": "conference",
+    "title": "Microtask Crowdsourcing for Music Score Transcriptions: an Experiment with Error Detection",
+    "authors": [
+      "Ioannis Petros Samiotis",
+      "Sihang Qiu",
+      "Andrea Mauri",
+      "Cynthia C.S. Liem",
+      "Christoph Lofi",
+      "Alessandro Bozzon"
+    ],
+    "year": 2020,
+    "venue": "International Society for Music Information Retrieval Conference (ISMIR)",
+    "pages": "901--907",
+    "abbr": "ISMIR",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "de2019automatic",
+    "type": "journal",
+    "title": "Automatic Processing of User-Generated Content for the Description of Energy-Consuming Activities at Individual and Group Level",
+    "authors": [
+      "Roos de Kok",
+      "Andrea Mauri",
+      "Alessandro Bozzon"
+    ],
+    "year": 2019,
+    "venue": "Energies",
+    "pages": "1--28",
+    "abbr": "Energies",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "mauri2019mapping",
+    "type": "book-chapter",
+    "title": "Mapping Energy Frames: an Innovative Approach Engaging with New Forms and Types of Data in Social Media Analysis to Frame Energy Demand",
+    "authors": [
+      "Andrea Mauri",
+      "Alessandro Bozzon",
+      "Roos de Kok"
+    ],
+    "year": 2019,
+    "venue": "From Efficiency to Reduction. Tackling Energy Consumption in a Cross Disciplinary Perspective",
+    "pages": "113--148",
+    "abbr": "",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "brambilla2018iterative",
+    "type": "conference",
+    "title": "Iterative Knowledge Extraction from Social Networks",
+    "authors": [
+      "Marco Brambilla",
+      "Stefano Ceri",
+      "Florian Daniel",
+      "Marco Di Giovanni",
+      "Andrea Mauri",
+      "Giorgia Ramponi"
+    ],
+    "year": 2018,
+    "venue": "Companion Proceedings of The Web Conference (WWW)",
+    "pages": "1359--1364",
+    "abbr": "WWW",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "mauri2018social",
+    "type": "conference",
+    "title": "Social Smart Meter: Identifying Energy Consumption Behavior in User-generated Content",
+    "authors": [
+      "Andrea Mauri",
+      "Achilleas Psyllidis",
+      "Alessandro Bozzon"
+    ],
+    "year": 2018,
+    "venue": "Companion Proceedings of The Web Conference (WWW)",
+    "pages": "195--198",
+    "abbr": "WWW",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "bernaschina2017big",
+    "type": "conference",
+    "title": "A Big Data Analysis Framework for Model-Based Web User Behavior Analytics",
+    "authors": [
+      "Carlo Bernaschina",
+      "Marco Brambilla",
+      "Andrea Mauri",
+      "Eric Umuhoza"
+    ],
+    "year": 2017,
+    "venue": "International Conference on Web Engineering (ICWE)",
+    "pages": "98--114",
+    "abbr": "ICWE",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "brambilla2017better",
+    "type": "conference",
+    "title": "Better Call the Crowd: Using Crowdsourcing to Shape the Notation of Domain-specific Languages",
+    "authors": [
+      "Marco Brambilla",
+      "Jordi Cabot",
+      "Javier Luis Cánovas Izquierdo",
+      "Andrea Mauri"
+    ],
+    "year": 2017,
+    "venue": "Proceedings of the 10th ACM SIGPLAN International Conference on Software Language Engineering (SLE)",
+    "pages": "129--138",
+    "abbr": "SLE",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "brambilla2017comparison",
+    "type": "conference",
+    "title": "Comparison of Different Driving Style Analysis Approaches Based on Trip Segmentation over GPS Information",
+    "authors": [
+      "Marco Brambilla",
+      "Paolo Mascetti",
+      "Andrea Mauri"
+    ],
+    "year": 2017,
+    "venue": "IEEE International Conference on Big Data",
+    "pages": "3784--3791",
+    "abbr": "IEEE BigData",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "brambilla2017instrumenting",
+    "type": "workshop",
+    "title": "Instrumenting Continuous Knowledge Extraction, Sharing, and Benchmarking",
+    "authors": [
+      "Marco Brambilla",
+      "Emanuele Della Valle",
+      "Andrea Mauri",
+      "Riccardo Tommasini"
+    ],
+    "year": 2017,
+    "venue": "Joint Proceedings of the 1st International Workshop on Scientometrics and 1st International Workshop on Enabling Decentralised Scholarly Communication (SciEDSC)",
+    "pages": "",
+    "abbr": "",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "bernaschina2017integrating",
+    "type": "conference",
+    "title": "Integrating Modeling Languages and Web Logs for Enhanced User Behavior Analytics",
+    "authors": [
+      "Carlo Bernaschina",
+      "Marco Brambilla",
+      "Thanas Koka",
+      "Andrea Mauri",
+      "Eric Umuhoza"
+    ],
+    "year": 2017,
+    "venue": "Proceedings of the 26th International Conference on World Wide Web Companion (WWW)",
+    "pages": "171--175",
+    "abbr": "WWW",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "mauriphd",
+    "type": "thesis",
+    "title": "Methodologies for the Development of Crowd and Social-based Applications",
+    "authors": [
+      "Andrea Mauri"
+    ],
+    "year": 2017,
+    "venue": "Politecnico di Milano",
+    "pages": "",
+    "abbr": "PhD Thesis",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "tommasini2017rsplab",
+    "type": "conference",
+    "title": "RSPLab: RDF Stream Processing Benchmarking Made Easy",
+    "authors": [
+      "Riccardo Tommasini",
+      "Emanuele Della Valle",
+      "Andrea Mauri",
+      "Marco Brambilla"
+    ],
+    "year": 2017,
+    "venue": "International Semantic Web Conference (ISWC)",
+    "pages": "202--209",
+    "abbr": "ISWC",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "mauri2017stressless",
+    "type": "conference",
+    "title": "Stressless RSP Benchmarking With RSPLab",
+    "authors": [
+      "Andrea Mauri",
+      "Riccardo Tommasini",
+      "Emanuele Della Valle",
+      "Marco Brambilla"
+    ],
+    "year": 2017,
+    "venue": "ISWC 2017 Posters & Demonstrations and Industry Tracks",
+    "pages": "",
+    "abbr": "ISWC",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "brambilla2016model_mobile",
+    "type": "workshop",
+    "title": "A Model-based Method for Seamless Web and Mobile Experience",
+    "authors": [
+      "Marco Brambilla",
+      "Andrea Mauri",
+      "Mirco Franzago",
+      "Henry Muccini"
+    ],
+    "year": 2016,
+    "venue": "Proceedings of the 1st International Workshop on Mobile Development (Mobile!)",
+    "pages": "33--40",
+    "abbr": "Mobile!",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "brambilla2016model_social",
+    "type": "workshop",
+    "title": "Model Driven Development of Social Media Environmental Monitoring Applications",
+    "authors": [
+      "Marco Brambilla",
+      "Andrea Mauri",
+      "Eric Umuhoza"
+    ],
+    "year": 2016,
+    "venue": "Social Web for Environmental and Ecological Monitoring Workshop, ICWSM",
+    "pages": "",
+    "abbr": "",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "brambilla2016modeling",
+    "type": "conference",
+    "title": "Modeling and Analyzing Engagement in Social Network Challenges",
+    "authors": [
+      "Marco Brambilla",
+      "Stefano Ceri",
+      "Chiara Leonardi",
+      "Andrea Mauri",
+      "Riccardo Volonterio"
+    ],
+    "year": 2016,
+    "venue": "International Conference on Web Information Systems Engineering (WISE)",
+    "pages": "140--154",
+    "abbr": "WISE",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "mauri2016triplewave",
+    "type": "conference",
+    "title": "Triplewave: Spreading RDF Streams on the Web",
+    "authors": [
+      "Andrea Mauri",
+      "Jean-Paul Calbimonte",
+      "Daniele Dell'Aglio",
+      "Marco Balduini",
+      "Marco Brambilla",
+      "Emanuele Della Valle",
+      "Karl Aberer"
+    ],
+    "year": 2016,
+    "venue": "International Semantic Web Conference (ISWC)",
+    "pages": "140--149",
+    "abbr": "ISWC",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "brambilla2015adaptive",
+    "type": "journal",
+    "title": "Adaptive and Interoperable Crowdsourcing",
+    "authors": [
+      "Marco Brambilla",
+      "Stefano Ceri",
+      "Andrea Mauri",
+      "Riccardo Volonterio"
+    ],
+    "year": 2015,
+    "venue": "IEEE Internet Computing",
+    "pages": "36--44",
+    "abbr": "IEEE IC",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "brambilla2015explorative",
+    "type": "conference",
+    "title": "An Explorative Approach for Crowdsourcing Tasks Design",
+    "authors": [
+      "Marco Brambilla",
+      "Stefano Ceri",
+      "Andrea Mauri",
+      "Riccardo Volonterio"
+    ],
+    "year": 2015,
+    "venue": "Proceedings of the 24th International Conference on World Wide Web Companion (WWW)",
+    "pages": "1125--1130",
+    "abbr": "WWW",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "bozzon2015designing",
+    "type": "journal",
+    "title": "Designing Complex Crowdsourcing Applications Covering Multiple Platforms and Tasks",
+    "authors": [
+      "Alessandro Bozzon",
+      "Marco Brambilla",
+      "Stefano Ceri",
+      "Andrea Mauri",
+      "Riccardo Volonterio"
+    ],
+    "year": 2015,
+    "venue": "Journal of Web Engineering",
+    "pages": "443--473",
+    "abbr": "JWE",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "mauri2015rdf",
+    "type": "conference",
+    "title": "Where are the RDF Streams? Deploying RDF Streams on the Web of Data with TripleWave",
+    "authors": [
+      "Andrea Mauri",
+      "Daniele Dell'Aglio",
+      "Jean-Paul Calbimonte",
+      "Marco Balduini",
+      "Emanuele Della Valle",
+      "Karl Aberer"
+    ],
+    "year": 2015,
+    "venue": "14th International Semantic Web Conference (ISWC) -- Poster",
+    "pages": "",
+    "abbr": "ISWC",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "brambilla2014augmented",
+    "type": "journal",
+    "title": "Augmented Participation to Live Events through Social Network Content Enrichment",
+    "authors": [
+      "Marco Brambilla",
+      "Daniele Dell'Aglio",
+      "Emanuele Della Valle",
+      "Andrea Mauri",
+      "Riccardo Volonterio"
+    ],
+    "year": 2014,
+    "venue": "ESWC 2014 AI Mashup Challenge",
+    "pages": "",
+    "abbr": "",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "brambilla2014community",
+    "type": "conference",
+    "title": "Community-based Crowdsourcing",
+    "authors": [
+      "Marco Brambilla",
+      "Stefano Ceri",
+      "Andrea Mauri",
+      "Riccardo Volonterio"
+    ],
+    "year": 2014,
+    "venue": "Proceedings of the 23rd International Conference on World Wide Web Companion (WWW)",
+    "pages": "891--896",
+    "abbr": "WWW",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "brambilla2014enriching",
+    "type": "journal",
+    "title": "Enriching Live Event Participation with Social Network Content Analysis and Visualization",
+    "authors": [
+      "Marco Brambilla",
+      "Daniele Dell'Aglio",
+      "Emanuele Della Valle",
+      "Andrea Mauri",
+      "Riccardo Volonterio"
+    ],
+    "year": 2014,
+    "venue": "ESWC 2014 Satellite Events",
+    "pages": "159",
+    "abbr": "",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "brambilla2014extending",
+    "type": "conference",
+    "title": "Extending the Interaction Flow Modeling Language (IFML) for Model Driven Development of Mobile Applications Front End",
+    "authors": [
+      "Marco Brambilla",
+      "Andrea Mauri",
+      "Eric Umuhoza"
+    ],
+    "year": 2014,
+    "venue": "International Conference on Mobile Web and Information Systems (MobiWis)",
+    "pages": "176--191",
+    "abbr": "MobiWis",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "mauri2014methodologies",
+    "type": "conference",
+    "title": "Methodologies for the Development of Crowd and Social-based Applications",
+    "authors": [
+      "Andrea Mauri"
+    ],
+    "year": 2014,
+    "venue": "International Conference on Web Engineering (ICWE)",
+    "pages": "562--566",
+    "abbr": "ICWE",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "bozzon2014pattern",
+    "type": "conference",
+    "title": "Pattern-based Specification of Crowdsourcing Applications",
+    "authors": [
+      "Alessandro Bozzon",
+      "Marco Brambilla",
+      "Stefano Ceri",
+      "Andrea Mauri",
+      "Riccardo Volonterio"
+    ],
+    "year": 2014,
+    "venue": "International Conference on Web Engineering (ICWE)",
+    "pages": "218--235",
+    "abbr": "ICWE",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "bozzon2013reactive",
+    "type": "conference",
+    "title": "Reactive crowdsourcing",
+    "authors": [
+      "Alessandro Bozzon",
+      "Marco Brambilla",
+      "Stefano Ceri",
+      "Andrea Mauri"
+    ],
+    "year": 2013,
+    "venue": "Proceedings of the 22nd International Conference on World Wide Web (WWW)",
+    "pages": "153--164",
+    "abbr": "WWW",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "bozzon2012model",
+    "type": "workshop",
+    "title": "A Model-Driven Approach for Crowdsourcing Search",
+    "authors": [
+      "Alessandro Bozzon",
+      "Marco Brambilla",
+      "Andrea Mauri"
+    ],
+    "year": 2012,
+    "venue": "CrowdSearch Workshop",
+    "pages": "31--35",
+    "abbr": "CrowdSearch",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "bozzon2012extending",
+    "type": "book-chapter",
+    "title": "Extending Search to Crowds: a Model-driven Approach",
+    "authors": [
+      "Alessandro Bozzon",
+      "Marco Brambilla",
+      "Stefano Ceri",
+      "Andrea Mauri"
+    ],
+    "year": 2012,
+    "venue": "Search Computing",
+    "pages": "207--222",
+    "abbr": "",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  },
+  {
+    "key": "brambilla2012model",
+    "type": "conference",
+    "title": "Model-driven Development of Social Network Enabled Applications with WebML and Social Primitives",
+    "authors": [
+      "Marco Brambilla",
+      "Andrea Mauri"
+    ],
+    "year": 2012,
+    "venue": "International Conference on Web Engineering (ICWE)",
+    "pages": "41--55",
+    "abbr": "ICWE",
+    "url": "",
+    "doi": "",
+    "pdf": ""
+  }
+]
