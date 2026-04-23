@@ -1,0 +1,31 @@
+[[main]]
+  name = "About"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Research"
+  pageRef = "research"
+  weight = 20
+
+[[main]]
+  name = "Publications"
+  pageRef = "publications"
+  weight = 30
+
+[[main]]
+  name = "News"
+  pageRef = "news"
+  weight = 40
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/janez87"
+  weight = 100
+
+[[main]]
+  identifier = "google-scholar"
+  pre = "google-scholar"
+  url = "https://scholar.google.com/citations?user=pmziRtMAAAAJ"
+  weight = 110

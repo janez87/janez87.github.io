@@ -1,0 +1,75 @@
+{{ define "main" }}
+  <header>
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+  </header>
+
+  {{ with .Content }}
+    <section class="mt-4 mb-8 prose dark:prose-invert max-w-none">
+      {{ . }}
+    </section>
+  {{ end }}
+
+  {{/* pubs already sorted year desc by bib2data.py */}}
+  {{ $pubs := hugo.Data.publications }}
+  {{ $years := slice }}
+  {{ range $pubs }}
+    {{ if not (in $years .year) }}
+      {{ $years = $years | append .year }}
+    {{ end }}
+  {{ end }}
+
+  {{ range $years }}
+    {{ $year := . }}
+    {{ $yearPubs := where $pubs "year" $year }}
+
+    <h2 class="text-2xl font-bold mt-10 mb-4 border-b border-neutral-200 dark:border-neutral-700 pb-2 text-neutral-800 dark:text-neutral-100">
+      {{ $year }}
+    </h2>
+
+    <ol class="space-y-5 list-none p-0 mb-2">
+      {{ range $yearPubs }}
+        <li class="flex gap-4">
+          {{ with .abbr }}
+            <span class="shrink-0 mt-0.5 inline-flex items-center justify-center text-xs font-bold px-2 py-0.5 rounded
+              bg-primary-100 dark:bg-primary-900 text-primary-700 dark:text-primary-300
+              h-fit min-w-[4.5rem] text-center leading-tight">
+              {{ . }}
+            </span>
+          {{ else }}
+            <span class="shrink-0 mt-0.5 inline-flex items-center justify-center text-xs font-bold px-2 py-0.5 rounded
+              bg-neutral-100 dark:bg-neutral-800 text-neutral-500 dark:text-neutral-400
+              h-fit min-w-[4.5rem] text-center leading-tight">
+              {{ .type }}
+            </span>
+          {{ end }}
+
+          <div class="min-w-0">
+            <p class="font-semibold text-neutral-800 dark:text-neutral-100 leading-snug m-0">
+              {{ if .doi }}
+                <a href="https://doi.org/{{ .doi }}" target="_blank" rel="noopener"
+                   class="hover:text-primary-600 dark:hover:text-primary-400 no-underline hover:underline">
+                  {{ .title }}
+                </a>
+              {{ else if .url }}
+                <a href="{{ .url }}" target="_blank" rel="noopener"
+                   class="hover:text-primary-600 dark:hover:text-primary-400 no-underline hover:underline">
+                  {{ .title }}
+                </a>
+              {{ else }}
+                {{ .title }}
+              {{ end }}
+            </p>
+            <p class="text-sm text-neutral-600 dark:text-neutral-400 m-0 mt-0.5">
+              {{ delimit .authors ", " }}
+            </p>
+            {{ with .venue }}
+              <p class="text-sm italic text-neutral-500 dark:text-neutral-500 m-0 mt-0.5">
+                {{ . }}
+              </p>
+            {{ end }}
+          </div>
+        </li>
+      {{ end }}
+    </ol>
+  {{ end }}
+{{ end }}

@@ -1,0 +1,22 @@
+theme = "blowfish"
+baseURL = "https://www.andreamauri.me/"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+summaryLength = 30
+enableEmoji = true
+buildDrafts = false
+buildFuture = false
+
+[pagination]
+  pagerSize = 10
+
+[imaging]
+  anchor = "Center"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

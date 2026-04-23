@@ -1,0 +1,23 @@
+locale = "en"
+label = "English"
+weight = 1
+title = "Andrea Mauri"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2006"
+  description = "Junior Professor at Université Claude Bernard Lyon 1 — LIRIS Research Lab. Research at the intersection of Human-Computer Interaction and Data Management."
+
+[params.author]
+  name = "Andrea Mauri"
+  image = "img/prof_pic.jpg"
+  headline = "Junior Professor · [LIRIS](https://liris.cnrs.fr) · [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr)"
+  bio = "Research at the intersection of **HCI** and **Data Management**."
+  links = [
+    { email = "mailto:andrea.mauri@univ-lyon1.fr" },
+    { github = "https://github.com/janez87" },
+    { google-scholar = "https://scholar.google.com/citations?user=pmziRtMAAAAJ" },
+    { x-twitter = "https://twitter.com/janez87" },
+  ]
