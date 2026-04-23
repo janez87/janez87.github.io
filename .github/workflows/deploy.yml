@@ -44,7 +44,7 @@ jobs:
           cache: "pip"
 
       - name: Install Python dependencies
-        run: pip install bibtexparser
+        run: pip install -r requirements.txt
 
       - name: Convert BibTeX to JSON
         run: python3 scripts/bib2data.py
