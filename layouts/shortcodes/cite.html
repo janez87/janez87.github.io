@@ -3,10 +3,27 @@
 {{- if $pub -}}
   {{- $label := $pub.abbr | default $pub.year -}}
   {{- $tooltip := printf "%s — %s (%d)" $pub.title (delimit $pub.authors ", ") $pub.year -}}
-  <a href="/publications/" title="{{ $tooltip }}"
-     class="inline-flex items-center text-xs font-semibold px-1.5 py-0.5 rounded
-            bg-primary-100 dark:bg-primary-900 text-primary-700 dark:text-primary-300
-            no-underline hover:underline align-middle">{{ $label }}</a>
+  {{- $href := "" -}}
+  {{- if $pub.doi -}}
+    {{- if hasPrefix $pub.doi "http" -}}
+      {{- $href = $pub.doi -}}
+    {{- else -}}
+      {{- $href = printf "https://doi.org/%s" $pub.doi -}}
+    {{- end -}}
+  {{- else if $pub.url -}}
+    {{- $href = $pub.url -}}
+  {{- end -}}
+  {{- if $href -}}
+    <a href="{{ $href }}" target="_blank" rel="noopener" title="{{ $tooltip }}"
+       class="inline-flex items-center text-xs font-semibold px-1.5 py-0.5 rounded
+              bg-primary-100 dark:bg-primary-900 text-primary-700 dark:text-primary-300
+              no-underline hover:underline align-middle">{{ $label }}</a>
+  {{- else -}}
+    <span title="{{ $tooltip }}"
+          class="inline-flex items-center text-xs font-semibold px-1.5 py-0.5 rounded
+                 bg-primary-100 dark:bg-primary-900 text-primary-700 dark:text-primary-300
+                 align-middle">{{ $label }}</span>
+  {{- end -}}
 {{- else -}}
   <span class="text-xs text-red-500">[{{ $key }}?]</span>
 {{- end -}}

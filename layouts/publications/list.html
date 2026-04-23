@@ -45,13 +45,18 @@
 
           <div class="min-w-0">
             <p class="font-semibold text-neutral-800 dark:text-neutral-100 leading-snug m-0">
+              {{ $href := "" }}
               {{ if .doi }}
-                <a href="https://doi.org/{{ .doi }}" target="_blank" rel="noopener"
-                   class="hover:text-primary-600 dark:hover:text-primary-400 no-underline hover:underline">
-                  {{ .title }}
-                </a>
+                {{ if hasPrefix .doi "http" }}
+                  {{ $href = .doi }}
+                {{ else }}
+                  {{ $href = printf "https://doi.org/%s" .doi }}
+                {{ end }}
               {{ else if .url }}
-                <a href="{{ .url }}" target="_blank" rel="noopener"
+                {{ $href = .url }}
+              {{ end }}
+              {{ if $href }}
+                <a href="{{ $href }}" target="_blank" rel="noopener"
                    class="hover:text-primary-600 dark:hover:text-primary-400 no-underline hover:underline">
                   {{ .title }}
                 </a>
