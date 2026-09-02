@@ -8,12 +8,12 @@ title = "Andrea Mauri"
   isoCode = "en"
   rtl = false
   dateFormat = "January 2006"
-  description = "Junior Professor at Université Claude Bernard Lyon 1 — LIRIS Research Lab. Research at the intersection of Human-Computer Interaction and Data Management."
+  description = "Professor at Université Claude Bernard Lyon 1 — LIRIS Research Lab. Research at the intersection of Human-Computer Interaction and Data Management."
 
 [params.author]
   name = "Andrea Mauri"
   image = "img/prof_pic.jpg"
-  headline = "Junior Professor · [LIRIS](https://liris.cnrs.fr) · [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr)"
+  headline = "Professor · [LIRIS](https://liris.cnrs.fr) · [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr)"
   bio = "Research at the intersection of **HCI** and **Data Management**."
   links = [
     { email = "mailto:andrea.mauri@univ-lyon1.fr" },
