@@ -2,7 +2,7 @@
 title: "Andrea Mauri"
 ---
 
-I am a Junior Professor at [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr), affiliated with the [LIRIS Research Lab](https://liris.cnrs.fr). Previously, I was a postdoctoral researcher at [Delft University of Technology](https://www.tudelft.nl) and the [Amsterdam Institute for Advanced Metropolitan Solutions (AMS)](https://www.ams-institute.org).
+I am a Professor at [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr), affiliated with the [LIRIS Research Lab](https://liris.cnrs.fr). Previously, I was a postdoctoral researcher at [Delft University of Technology](https://www.tudelft.nl) and the [Amsterdam Institute for Advanced Metropolitan Solutions (AMS)](https://www.ams-institute.org).
 
 My research sits at the intersection of **Human-Computer Interaction** and **Data Management**. I investigate how to integrate human perspectives and computational methods in the design, development, and deployment of data-intensive applications. My goal is to build systems that are not just efficient, but that are responsive to human characteristics, needs, and values.
 
