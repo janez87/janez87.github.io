@@ -17,13 +17,8 @@ How research works, from research questions and problem statements to experiment
 **Natural Language Processing** · M2 DISS · Spring · since 2025  
 From NLP foundations to modern large language models: word embeddings, language models and sequence modelling, Transformers, BERT and transfer learning, generative AI, and the evaluation of NLP systems.
 
-**Research Project Management and Funding** · M2 DISS · Spring · since 2023 · co-taught with Paolo Pistone  
+**Research Project Management and Funding** · M2 DISS · Spring · since 2023  
 Planning and running research projects (lifecycle models, work breakdown, estimation, scheduling) and writing European grant proposals (Horizon Europe, ERC, MSCA).
 
-**Big Graph Processing Systems** · Spring · since 2027  
+**Big Graph Processing Systems** · M2 DISS · Spring · since 2027  
 Advanced graph processing and analytical systems, from graph query languages to optimized, cost-based query execution. Covers recent advances in property graph models, graph queries, graph transformations, and graph schemas, along with evaluation metrics for efficient graph query processing and analytics. Includes practical sessions on writing and understanding graph queries in a graph database using openCypher.
-
-### Past teaching
-
-- **Data Integration and Quality** (practicals) · M2 Data Science · 2022–23
-- **Introduction to Research** (practicals) · M1 Computer Science · 2023–24
